@@ -1,7 +1,7 @@
 <?php
 
 define('__ROOT__', dirname(dirname(__FILE__)));
-require_once(__ROOT__ . '/libs/ModuleHelper.class.php');
+require_once(__ROOT__ . '/libs/helpers/autoload.php');
 include_once(__ROOT__ . '/libs/php-simpleNetatmoAPI/class/splNetatmoAPI.php');
 
 /**
