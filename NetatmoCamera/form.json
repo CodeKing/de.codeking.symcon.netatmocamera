@@ -115,7 +115,7 @@
     {
       "type": "Button",
       "label": "Update Data",
-      "onClick": "NC_Update($id);"
+      "onClick": "NetatmoCamera_Update($id);"
     }
   ]
 }
