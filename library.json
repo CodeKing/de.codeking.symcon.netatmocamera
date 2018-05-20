@@ -1,0 +1,12 @@
+{
+  "id": "{14D6AAB2-0171-412C-9596-BDA3C210A07F}",
+  "author": "CodeKing",
+  "name": "Netatmo Camera",
+  "url": "https://codeking.de",
+  "compatibility": {
+    "version": "4.4"
+  },
+  "version": "1.1",
+  "build": 0,
+  "date": 0
+}
